@@ -1,6 +1,6 @@
 # TOWER DEFENSE
 
-Holyfack =)))  This game (without music, sfx, levels) took me nearly 2 months to finalize it (actually the time lasted longer than I expected). I intended to code and build this simple game in just a week, but yah there were a lot of facking deadlines at my university and I had to handle them first.
+Holyfack =)))  This game (without music, sfx, levels) took me approximately 2 months to finalize it (actually the time lasted longer than I expected). I intended to code and build this simple game in just a week, but yah there were a lot of facking deadlines at my university and I had to handle them first.
 
 𝐆𝐀𝐌𝐄 𝐃𝐄𝐌𝐎:
 
