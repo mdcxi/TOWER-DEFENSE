@@ -7,7 +7,7 @@ Holyfack =)))  This game (without music, sfx, levels) took me nearly 2 months to
 𝐌𝐚𝐢𝐧 𝐌𝐞𝐧𝐮 𝐔𝐈:
 ![image](https://user-images.githubusercontent.com/97457787/164774471-5975b0cf-8a8a-412f-8673-e779b81b566d.png)
 
-𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 𝗨𝗜:
+𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻 𝗨𝗜 (𝙬𝙚𝙡𝙡, 𝙞𝙩 𝙖𝙥𝙥𝙚𝙖𝙧𝙨 𝙩𝙤 𝙝𝙖𝙧𝙙 𝙩𝙤 𝙨𝙚𝙚 - 𝙄 𝙠𝙣𝙤𝙬 𝙞𝙩 =))))) :
 ![image](https://user-images.githubusercontent.com/97457787/164774513-6d917dc8-3d34-41a5-ade3-94b5821b94cb.png)
 
 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆:
