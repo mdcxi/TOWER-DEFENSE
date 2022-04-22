@@ -1,0 +1,14 @@
+DeleteMeDemo/[Ll]ibrary/
+DeleteMeDemo/[Tt]emp/
+DeleteMeDemo/[Oo]bj/
+DeleteMeDemo/[Bb]uild/
+DeleteMeDemo/[Bb]uilds/
+DeleteMeDemo/[Ll]ogs/
+DeleteMeDemo/[Mm]emoryCaptures/
+
+#Never ignore Asset meta data
+!DeleteMeDemo/[Aa]ssets/**/*.meta
+
+DeleteMeDemo/[Aa]ssets/AssetStoreTools*
+
+DeleteMeDemo/[Aa]ssets/TextMesh*Pro/
